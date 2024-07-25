@@ -17,4 +17,4 @@ const avatars = new Avatars(client)
 const storage = new Storage(client)
 const users = new Users(client)
 
-export  {users, databases, avatars, storage, client}   
+export  {users, databases, avatars, storage, Client, client}   

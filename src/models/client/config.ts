@@ -15,4 +15,4 @@ const avatars = new Avatars(client)
 const storage = new Storage(client)
 
 
-export default {account, databases, avatars, storage, client}   
+export  {account, databases, avatars, storage, client}   
